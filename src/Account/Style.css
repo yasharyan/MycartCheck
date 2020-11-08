@@ -1,0 +1,41 @@
+.inputfield{
+    border: none;
+    outline: none;
+}
+
+.styling{
+    border: 1px solid rgb(0, 95, 124);
+    border-radius: 55px;
+}
+
+button{
+    border: none;
+    background: transparent;
+}
+
+a.alreadyaccount{
+    color: black;
+}
+
+a.alreadyaccount:hover{
+    color: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* developer area*/
+
+/* .check{
+    border: 2px solid red;
+} */

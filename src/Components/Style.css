@@ -1,0 +1,355 @@
+
+/* .color{
+    color: rgb(255, 0, 85);
+    border-bottom: rgb(255, 0, 85);
+} */
+
+
+/* checking class */
+
+.check{
+    border: 2px solid red;
+}
+
+/* checking class */
+
+.logoname{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+a:hover{
+    color: transparent;
+}
+
+.m,.c{
+    color: #E81E5A;
+}
+
+.y,.a{
+    color: #ecd071;
+}
+
+.r{
+    color: #00CAAF;
+}
+
+.t{
+    color: #1B8CC5;
+    font-size: 29px;
+}
+
+
+#input{
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+ul li{
+    list-style: none;
+    display: inline-block;
+}
+
+#searcharea{
+    border: 4px solid #ffffff;
+    background-color: #ffffff;
+    color: black;
+    border-radius: 55px;
+}
+
+#account{
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+
+.usericon{
+    color: white;
+}
+
+.accounttxt{
+    color: white;
+}
+
+.carttxt{
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.nav_container{
+    background-color: rgb(0, 95, 124);
+}
+.navcontainer_fluid{
+    background-color: rgb(0, 95, 124);
+}
+
+/* fist navbar color choice rgb(19, 87, 107) */
+
+
+/*  Navbar Css finished here. */
+
+
+/*  Main Area Css Starts  */
+
+.main{
+    background-color: whitesmoke;
+}
+
+.advertise{
+    width: 100%;
+    height: 600px;
+}
+
+.advertiseare{
+    background-color: whitesmoke;
+}
+
+
+/*  Main Area Css Finished here.  */
+
+
+
+
+/* Categories css Starts here. */
+
+
+
+.sizeadjust{
+    height: 150px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.categoryhead{
+    background-color: rgb(9, 95, 134);
+}
+
+.categorytxt{
+    color: white;
+    text-align: center;
+}
+
+.itemrow{
+    background-color: whitesmoke;
+}
+
+.categoryitem{
+    border: 1px solid #0aad98;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #1B8CC5;
+    color: white;
+    text-align: center;
+    font-size: 19.4px;
+}
+
+.hovereffect:hover{
+    box-shadow: 0 0 30px rgb(55, 165, 238);
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Categories css Finished here. */
+
+
+
+
+/* Super Sales Css Starts here. */
+
+
+#supersale1{
+    background: url(../imgs/mobile2.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+    width: 100%;
+    height: 400px;
+}
+
+.supersale1{
+    color: yellow;
+    font-weight: 600;
+}
+
+
+
+#supersale2{
+    background: url(../imgs/camera10edit.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+    width: 100%;
+    height: 400px;
+    text-align: end;
+}
+
+.supersale2{
+    color: rgb(30, 243, 172);
+}
+
+
+
+
+#supersale3{
+    background: url(../imgs/mnz-RsJDUzKdBws-unsplash.jpg) no-repeat;
+    background-size: cover;
+    color: white;
+    width: 100%;
+    height: 400px;
+}
+
+.supersale3{
+    color: rgb(19, 176, 187);
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Super Sales Css Finished here. */
+
+
+
+
+
+
+
+
+
+/* Buttombar Css Starts here. */
+
+
+
+.about, .address, .mailus, .social, .policy, .help{
+    color: rgb(26, 25, 25);
+    font-weight: bold;
+}
+
+ul{
+    padding: 0px;
+}
+
+
+.listcolor{
+    color: rgb(230, 243, 243);
+}
+
+.copyright{
+    color: white;
+}
+
+
+
+
+
+
+/* Buttombar Css finished here. */
+
+
+
+
+/* Routing Css Area Starts here. */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Routing Css Area Finished here. */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*develpoment area to color and get clearlfy about area*/
+
+/* .container-fluid{
+    border: 4px solid black;
+}
+
+.container{
+    border: 4px solid rgb(131, 124, 124);
+}
+.row{
+    border: 4px solid rgb(175, 7, 7);
+}
+.col{
+    border: 4px solid rgb(226, 194, 14);
+} */
